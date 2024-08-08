@@ -6,6 +6,12 @@ Welcome to the **Shell Web Viewer**! This project combines the power of shell sc
 
 Ever wanted to browse the web straight from your terminal? Look no further! The Shell Web Viewer is a nifty tool that lets you do just that. With a sleek interface and seamless integration, it transforms your terminal into a web-browsing powerhouse. Say goodbye to switching between your terminal and browser—now you can do it all in one place!
 
+Here are some screenshots for reference:
+
+![Alt text](images/Screenshot 2024-08-08 053855.png)
+![Alt text](images/Screenshot 2024-08-08 054055.png)
+
+
 
 You can install these dependencies using the following commands:
 
