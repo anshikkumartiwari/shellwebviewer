@@ -8,8 +8,8 @@ Ever wanted to browse the web straight from your terminal? Look no further! The 
 
 Here are some screenshots for reference:
 
-![Alt text](images/Screenshot 2024-08-08 053855.png)
-![Alt text](images/Screenshot 2024-08-08 054055.png)
+![Alt text](images/s1.png)
+![Alt text](images/s2.png)
 
 
 
