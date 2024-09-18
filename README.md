@@ -8,7 +8,7 @@ Ever wanted to browse the web straight from your terminal? Look no further! The 
 
 Here are some screenshots for reference:
 
-![Alt text](images/s1.png)
+![Alt text](images/s3.png)
 ![Alt text](images/s2.png)
 
 
